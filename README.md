@@ -1,5 +1,6 @@
 # Youtube Video Summarizer
-Made with [Hugging Face](https://huggingface.co/)'s transformers, this app generates a precise summary of the a youtube video.
+Made with [Hugging Face](https://huggingface.co/)'s transformers, [facebook's bart](https://huggingface.co/facebook/bart-large) to be specific, this app can generate a precise summary of youtube videos.
+Used [streamlit](https://streamlit.io) for creating the web app.
 ## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/351d4b85-88a7-4dfb-9026-6ccda47f239f" width="80%">
